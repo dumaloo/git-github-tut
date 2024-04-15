@@ -1,0 +1,5 @@
+Git is a distributed version control system that allows multiple people to work on a project at the same time without overwriting each other's changes. It keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+
+GitHub, on the other hand, is a cloud-based hosting service that lets you manage Git repositories. If you have a piece of project that you want others to see or contribute to, you can publish it on GitHub. You can also use GitHub to discover projects others are working on and contribute to them.
+
+In the next sections, we will go through the basic commands and operations in Git and GitHub. Stay tuned!
