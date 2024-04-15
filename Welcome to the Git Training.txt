@@ -1,0 +1,1 @@
+Welcome to the Git Training Playground! Whether you're new to version control or looking to sharpen your Git and GitHub skills, you're in the right place. This repository serves as a collaborative space for learning and practicing Git commands in a real-world setting.
