@@ -7,7 +7,7 @@ Welcome to the GitHub Tutorial Repository! This repository is designed to help y
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/Github-tut.git
+   git clone https://github.com/dumaloo/Github-tut.git
    ```
 
 2. **Explore the Contents**:

@@ -1,1 +1,14 @@
-Welcome to the Git Training Playground! Whether you're new to version control or looking to sharpen your Git and GitHub skills, you're in the right place. This repository serves as a collaborative space for learning and practicing Git commands in a real-world setting.
+Welcome to the Git Training!
+
+In this training, you will learn:
+
+1. Basics of Git
+2. How to create a Git repository
+3. How to clone a Git repository
+4. How to commit changes
+5. How to push changes to a remote repository
+6. How to pull changes from a remote repository
+7. How to resolve merge conflicts
+8. Best practices for using Git
+
+We hope you enjoy the training and learn a lot about Git!
