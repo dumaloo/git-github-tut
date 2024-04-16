@@ -6,4 +6,4 @@ In the next sections, we will go through the basic commands and operations in Gi
 
 
 
-HEllo world...
+Namaste!!.
